@@ -6,8 +6,6 @@ tfenv/
 
 
 
-# Ignore notebooks
-*.ipynb
 
 # Ignore cache and logs
 __pycache__/

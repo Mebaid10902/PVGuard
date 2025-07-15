@@ -1,0 +1,25 @@
+# Ignore virtual environments
+env/
+venv/
+tfenv/
+.venv/
+
+
+
+# Ignore notebooks
+*.ipynb
+
+# Ignore cache and logs
+__pycache__/
+*.log
+checkpoints/
+logs/
+
+# Ignore models
+*.h5
+*.pkl
+*.ckpt
+
+# Ignore IDE/config
+.vscode/
+.env
